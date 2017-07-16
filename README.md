@@ -1,5 +1,8 @@
 ## CRUD Example Project  -  FINISHED
 
+perform CRUD operations using Angular 4. use an in-memory data store in this example to add, remove, update and delete products from an array.
+
+
 ### Running the Project
 1) Open a command prompt in the project's root directory
 
