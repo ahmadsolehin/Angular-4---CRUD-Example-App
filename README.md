@@ -1,4 +1,4 @@
-## CRUD Example Project  -  FINISHED
+## CRUD Project  -  FINISHED
 
 perform CRUD operations using Angular 4. use an in-memory data store in this example to add, remove, update and delete products from an array.
 
@@ -22,3 +22,7 @@ using Lodash and Bootstrap 4 in this example as well.
 - navbar
 - routing setup
 - app.template  -> loads navbar and **RouterOutlet** for **Home Component**
+
+# screenshot
+
+![nn](https://user-images.githubusercontent.com/12325386/28256985-e7f310a8-6af9-11e7-925e-f4eca4265bca.JPG)
